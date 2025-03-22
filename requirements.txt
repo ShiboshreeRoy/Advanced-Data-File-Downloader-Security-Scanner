@@ -1,0 +1,25 @@
+# HTTP requests and web sessions
+requests==2.31.0
+
+# HTML parsing
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# DNS resolution
+dnspython==2.6.1
+
+# Colored CLI output (optional but often useful)
+colorama==0.4.6
+termcolor==2.4.0
+
+# URL parsing and manipulation
+urllib3==2.2.1
+
+# Fake user-agents (optional for request randomization)
+fake-useragent==1.5.1
+
+# JSON encoding/decoding (standard, but including to pin version if needed)
+simplejson==3.19.2
+
+# For multi-threading logs (optional, useful in concurrent scans)
+concurrent-log-handler==0.9.24
