@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/latest-0.9.0-blue.svg)](https://github.com/ShiboshreeRoy/Advanced-Data-File-Downloader-Security-Scanner.git)
 [![Python](https://img.shields.io/badge/python-3.7%2B-green.svg)](https://github.com/ShiboshreeRoy/Advanced-Data-File-Downloader-Security-Scanner.git)
 [![License](https://img.shields.io/github/license/shiboshreeroy/Advanced-Data-File-Downloader-Security-Scanner)](https://github.com/ShiboshreeRoy/Advanced-Data-File-Downloader-Security-Scanner.git)
-[![Issues](https://img.shields.io/github/issue/shiboshreeroyAdvanced-Data-File-Downloader-Security-Scanner)](https://github.com/ShiboshreeRoy/Advanced-Data-File-Downloader-Security-Scanner.git)
+[![Issues](https://img.shields.io/github/issues/shiboshreeroy/Advanced-Data-File-Downloader-Security-Scanner)](https://github.com/ShiboshreeRoy/Advanced-Data-File-Downloader-Security-Scanner.git)
 
 > 🚨 This tool is made for cybersecurity professionals. Please use responsibly and with authorization.
 
